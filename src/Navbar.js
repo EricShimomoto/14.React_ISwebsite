@@ -10,7 +10,7 @@ const Navbar = () => {
                     backgroundColor :'#3542f1',
                     borderRadius : '8px'
 
-                }}>New Blog</a> */}
+                }}>New Blog</a> s*/}
             </div>
         </nav>
      );
